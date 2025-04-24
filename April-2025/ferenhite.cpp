@@ -8,6 +8,7 @@ int main(){
     int f;
     f=(c*9/5)+32;
     cout<<"The temperature in Fahrenheit is:"<<f;
+    
     return 0;
 
 }
