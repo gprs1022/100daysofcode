@@ -9,6 +9,7 @@ int main(){
     netSalary = grossSalary - PF;
     cout<<"Gross Salary is "<<grossSalary<<endl;
     cout<<"Net Salary is "<<netSalary<<endl;
+    
 
   
 }
